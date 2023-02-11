@@ -1,0 +1,9 @@
+---
+SE01Z05MAS001:
+  hostname: '10.72.2.131'
+
+SE01Z05CDS001:
+  hostname: '10.72.2.27'
+
+SE01Z05CAS001:
+  hostname: '10.72.2.246'

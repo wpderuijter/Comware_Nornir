@@ -1,0 +1,6 @@
+---
+  username: wimr
+  password: Qawsed@1234
+  platform: 'hp_comware'
+  groups:
+    - 'hp_comware'

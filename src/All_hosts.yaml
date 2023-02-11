@@ -1,0 +1,410 @@
+---
+SE01Z03MAS008:
+  hostname: '10.72.2.100'
+
+SE01Z03MAS009:
+  hostname: '10.72.2.101'
+
+SE01Z03MAS010:
+  hostname: '10.72.2.102'
+
+SE01Z03MAS011:
+  hostname: '10.72.2.103'
+
+SE01Z03MAS012:
+  hostname: '10.72.2.104'
+
+SE01Z00MCS001:
+  hostname: '10.72.2.11'
+
+SE01Z04MAS001:
+  hostname: '10.72.2.112'
+
+SE01Z04MAS002:
+  hostname: '10.72.2.113'
+
+SE01Z04MAS003:
+  hostname: '10.72.2.114'
+
+SE01Z04MAS004:
+  hostname: '10.72.2.115'
+
+SE01Z04MAS005:
+  hostname: '10.72.2.116'
+
+SE01Z04MAS006:
+  hostname: '10.72.2.117'
+
+SE01Z04MAS007:
+  hostname: '10.72.2.118'
+
+SE01Z04MAS008:
+  hostname: '10.72.2.119'
+
+SE01Z00CCS001:
+  hostname: '10.72.2.12'
+
+SE01Z04MAS009:
+  hostname: '10.72.2.120'
+
+SE01Z04MAS010:
+  hostname: '10.72.2.121'
+
+SE01Z04MAS011:
+  hostname: '10.72.2.122'
+
+SE01Z04MAS012:
+  hostname: '10.72.2.123'
+
+SE01Z0AMDS001:
+  hostname: '10.72.2.13'
+
+SE01Z0BMDS001:
+  hostname: '10.72.2.14'
+
+SE01Z01MDS001:
+  hostname: '10.72.2.15'
+
+SE01Z02MDS001:
+  hostname: '10.72.2.16'
+
+SE01Z0ACAS001:
+  hostname: '10.72.2.169'
+
+SE01Z03MDS001:
+  hostname: '10.72.2.17'
+
+SE01Z0ACAS002:
+  hostname: '10.72.2.170'
+
+SE01Z0ACAS003:
+  hostname: '10.72.2.171'
+
+SE01Z0ACAS004:
+  hostname: '10.72.2.172'
+
+SE01Z0ACAS005:
+  hostname: '10.72.2.173'
+
+SE01Z0ACAS006:
+  hostname: '10.72.2.174'
+
+SE01Z0ACAS007:
+  hostname: '10.72.2.175'
+
+SE01Z0ACAS008:
+  hostname: '10.72.2.176'
+
+SE01Z0ACAS009:
+  hostname: '10.72.2.177'
+
+SE01Z0ACAS010:
+  hostname: '10.72.2.178'
+
+SE01Z0ACAS011:
+  hostname: '10.72.2.179'
+
+SE01Z04MDS001:
+  hostname: '10.72.2.18'
+
+SE01Z0BCAS001:
+  hostname: '10.72.2.181'
+
+SE01Z0BCAS002:
+  hostname: '10.72.2.182'
+
+SE01Z0BCAS003:
+  hostname: '10.72.2.183'
+
+SE01Z0BCAS004:
+  hostname: '10.72.2.184'
+
+SE01Z0BCAS005:
+  hostname: '10.72.2.185'
+
+SE01Z0BCAS006:
+  hostname: '10.72.2.186'
+
+SE01Z0BCAS007:
+  hostname: '10.72.2.187'
+
+SE01Z0BCAS008:
+  hostname: '10.72.2.188'
+
+SE01Z0BCAS009:
+  hostname: '10.72.2.189'
+
+SE01Z0BCAS010:
+  hostname: '10.72.2.190'
+
+SE01Z0BCAS011:
+  hostname: '10.72.2.191'
+
+SE01Z01CAS001:
+  hostname: '10.72.2.193'
+
+SE01Z01CAS002:
+  hostname: '10.72.2.194'
+
+SE01Z01CAS003:
+  hostname: '10.72.2.195'
+
+SE01Z01CAS004:
+  hostname: '10.72.2.196'
+
+SE01Z01CAS005:
+  hostname: '10.72.2.197'
+
+SE01Z01CAS006:
+  hostname: '10.72.2.198'
+
+SE01Z01CAS007:
+  hostname: '10.72.2.199'
+
+SE01Z02CAS001:
+  hostname: '10.72.2.207'
+
+SE01Z02CAS002:
+  hostname: '10.72.2.208'
+
+SE01Z02CAS003:
+  hostname: '10.72.2.209'
+
+SE01Z0ACDS001:
+  hostname: '10.72.2.21'
+
+SE01Z02CAS004:
+  hostname: '10.72.2.210'
+
+SE01Z02CAS005:
+  hostname: '10.72.2.211'
+
+SE01Z02CAS006:
+  hostname: '10.72.2.212'
+
+SE01Z0BCDS001:
+  hostname: '10.72.2.22'
+
+SE01Z03CAS001:
+  hostname: '10.72.2.220'
+
+SE01Z03CAS002:
+  hostname: '10.72.2.221'
+
+SE01Z03CAS003:
+  hostname: '10.72.2.222'
+
+SE01Z03CAS004:
+  hostname: '10.72.2.223'
+
+SE01Z03CAS005:
+  hostname: '10.72.2.224'
+
+SE01Z03CAS006:
+  hostname: '10.72.2.225'
+
+SE01Z01CDS001:
+  hostname: '10.72.2.23'
+
+SE01Z04CAS001:
+  hostname: '10.72.2.233'
+
+SE01Z04CAS002:
+  hostname: '10.72.2.234'
+
+SE01Z04CAS003:
+  hostname: '10.72.2.235'
+
+SE01Z04CAS004:
+  hostname: '10.72.2.236'
+
+SE01Z04CAS005:
+  hostname: '10.72.2.237'
+
+SE01Z04CAS006:
+  hostname: '10.72.2.238'
+
+SE01Z02CDS001:
+  hostname: '10.72.2.24'
+
+SE01Z03CDS001:
+  hostname: '10.72.2.25'
+
+SE01Z04CDS001:
+  hostname: '10.72.2.26'
+
+SE01Z0AFAS001:
+  hostname: '10.72.2.29'
+
+SE01Z0AFAS002:
+  hostname: '10.72.2.30'
+
+SE01Z0AFAS003:
+  hostname: '10.72.2.31'
+
+SE01Z0BFAS001:
+  hostname: '10.72.2.32'
+
+SE01Z0BFAS002:
+  hostname: '10.72.2.33'
+
+SE01Z0BFAS003:
+  hostname: '10.72.2.34'
+
+SE01Z0AMAS001:
+  hostname: '10.72.2.35'
+
+SE01Z0AMAS002:
+  hostname: '10.72.2.36'
+
+SE01Z0AMAS003:
+  hostname: '10.72.2.37'
+
+SE01Z0AMAS004:
+  hostname: '10.72.2.38'
+
+SE01Z0AMAS005:
+  hostname: '10.72.2.39'
+
+SE01Z0AMAS006:
+  hostname: '10.72.2.40'
+
+SE01Z0AMAS007:
+  hostname: '10.72.2.41'
+
+SE01Z0AMAS008:
+  hostname: '10.72.2.42'
+
+SE01Z0AMAS010:
+  hostname: '10.72.2.44'
+
+SE01Z0BMAS001:
+  hostname: '10.72.2.45'
+
+SE01Z0BMAS002:
+  hostname: '10.72.2.46'
+
+SE01Z0BMAS003:
+  hostname: '10.72.2.47'
+
+SE01Z0BMAS004:
+  hostname: '10.72.2.48'
+
+SE01Z0BMAS005:
+  hostname: '10.72.2.49'
+
+SE01Z0BMAS006:
+  hostname: '10.72.2.50'
+
+SE01Z0BMAS007:
+  hostname: '10.72.2.51'
+
+SE01Z0BMAS008:
+  hostname: '10.72.2.52'
+
+SE01Z01MAS001:
+  hostname: '10.72.2.54'
+
+SE01Z01MAS002:
+  hostname: '10.72.2.55'
+
+SE01Z01MAS003:
+  hostname: '10.72.2.56'
+
+SE01Z01MAS004:
+  hostname: '10.72.2.57'
+
+SE01Z01MAS005:
+  hostname: '10.72.2.58'
+
+SE01Z01MAS006:
+  hostname: '10.72.2.59'
+
+SE01Z01MAS007:
+  hostname: '10.72.2.60'
+
+SE01Z01MAS008:
+  hostname: '10.72.2.61'
+
+SE01Z01MAS009:
+  hostname: '10.72.2.62'
+
+SE01Z01MAS010:
+  hostname: '10.72.2.63'
+
+SE01Z01MAS011:
+  hostname: '10.72.2.64'
+
+SE01Z01MAS012:
+  hostname: '10.72.2.65'
+
+SE01Z01MAS013:
+  hostname: '10.72.2.66'
+
+SE01Z02MAS001:
+  hostname: '10.72.2.74'
+
+SE01Z02MAS002:
+  hostname: '10.72.2.75'
+
+SE01Z02MAS003:
+  hostname: '10.72.2.76'
+
+SE01Z02MAS004:
+  hostname: '10.72.2.77'
+
+SE01Z02MAS005:
+  hostname: '10.72.2.78'
+
+SE01Z02MAS006:
+  hostname: '10.72.2.79'
+
+SE01Z02MAS007:
+  hostname: '10.72.2.80'
+
+SE01Z02MAS008:
+  hostname: '10.72.2.81'
+
+SE01Z02MAS009:
+  hostname: '10.72.2.82'
+
+SE01Z02MAS010:
+  hostname: '10.72.2.83'
+
+SE01Z02MAS011:
+  hostname: '10.72.2.84'
+
+SE01Z02MAS012:
+  hostname: '10.72.2.85'
+
+SE01Z00ESW001:
+  hostname: '10.72.2.9'
+
+SE01Z03MAS001:
+  hostname: '10.72.2.93'
+
+SE01Z03MAS002:
+  hostname: '10.72.2.94'
+
+SE01Z03MAS003:
+  hostname: '10.72.2.95'
+
+SE01Z03MAS004:
+  hostname: '10.72.2.96'
+
+SE01Z03MAS005:
+  hostname: '10.72.2.97'
+
+SE01Z03MAS006:
+  hostname: '10.72.2.98'
+
+SE01Z03MAS007:
+  hostname: '10.72.2.99'
+
+SE01Z0ACAS013:
+  hostname: '10.72.3.17'
+
+SE01Z01FAS001:
+  hostname: '10.72.3.18'
+
+

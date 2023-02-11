@@ -1,0 +1,85 @@
+---
+SE01Z04MDS001:
+  hostname: '10.72.2.18'
+  data:
+    functie: mgmt_dis
+
+SE01Z04CDS001:
+  hostname: '10.72.2.26'
+  data:
+    functie: con_dis
+
+SE01Z04MAS003:
+  hostname: '10.72.2.114'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS004:
+  hostname: '10.72.2.115'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS005:
+  hostname: '10.72.2.116'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS007:
+  hostname: '10.72.2.118'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS008:
+  hostname: '10.72.2.119'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS009:
+  hostname: '10.72.2.120'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS010:
+  hostname: '10.72.2.121'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS011:
+  hostname: '10.72.2.122'
+  data:
+    functie: mgmt_acc
+
+SE01Z04MAS012:
+  hostname: '10.72.2.123'
+  data:
+    functie: mgmt_acc
+
+SE01Z04CAS001:
+  hostname: '10.72.2.233'
+  data:
+    functie: dis_acc
+
+SE01Z04CAS002:
+  hostname: '10.72.2.234'
+  data:
+    functie: dis_acc
+
+SE01Z04CAS003:
+  hostname: '10.72.2.235'
+  data:
+    functie: dis_acc
+
+SE01Z04CAS004:
+  hostname: '10.72.2.236'
+  data:
+    functie: dis_acc
+
+SE01Z04CAS005:
+  hostname: '10.72.2.237'
+  data:
+    functie: dis_acc
+
+SE01Z04CAS006:
+  hostname: '10.72.2.238'
+  data:
+    functie: dis_acc
